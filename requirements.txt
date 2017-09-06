@@ -3,3 +3,4 @@ pydicom==0.9.9
 qstatistic==0.1.0.2
 jupyter==1.0.0
 ipython==6.1.0
+lxml==3.8.0
